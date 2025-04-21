@@ -1,0 +1,1 @@
+select min(salary) from employee where salary < 50000;
